@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: e51328aecab51314591839404cd74dcc
+timeCreated: 1454262255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Attacking_0
+    21300002: Attacking_1
+    21300004: Attacking_2
+    21300006: Attacking_3
+    21300008: Attacking_4
+    21300010: Attacking_5
+    21300012: Attacking_6
+    21300014: Attacking_7
+    21300016: Attacking_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 54}
+        - {x: -31, y: -35}
+        - {x: -17, y: -54}
+        - {x: 11, y: -54}
+        - {x: 31, y: -50}
+        - {x: 31, y: 54}
+    - name: Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 55}
+        - {x: -31, y: 55}
+        - {x: -31, y: -37}
+        - {x: -16, y: -55}
+        - {x: 8, y: -55}
+        - {x: 29, y: -4}
+        - {x: 31, y: 9}
+        - {x: 31, y: 43}
+    - name: Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 150
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -52.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 51.5}
+        - {x: 23, y: 53.5}
+        - {x: -32, y: 53.5}
+        - {x: -32, y: -9.5}
+        - {x: -21, y: -43.5}
+        - {x: -16, y: -53.5}
+        - {x: -5, y: -53.5}
+        - {x: -4, y: -52.5}
+        - {x: -3, y: -53.5}
+        - {x: 16, y: -53.5}
+    - name: Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 34}
+        - {x: 28, y: 55}
+        - {x: -32, y: 55}
+        - {x: -32, y: -31}
+        - {x: -24, y: -55}
+        - {x: 15, y: -55}
+        - {x: 20, y: -52}
+        - {x: 32, y: -24}
+    - name: Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 149
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 55}
+        - {x: -32.5, y: -44}
+        - {x: -24.5, y: -55}
+        - {x: 20.5, y: -55}
+        - {x: 24.5, y: -54}
+        - {x: 32.5, y: -31}
+        - {x: 32.5, y: 39}
+        - {x: 29.5, y: 55}
+    - name: Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 149
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 54}
+        - {x: -40.5, y: 47}
+        - {x: -40.5, y: -2}
+        - {x: -18.5, y: -54}
+        - {x: 40.5, y: -54}
+        - {x: 40.5, y: 53}
+        - {x: 39.5, y: 54}
+    - name: Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 54}
+        - {x: -36, y: 52}
+        - {x: -36, y: -17}
+        - {x: -22, y: -54}
+        - {x: 32, y: -54}
+        - {x: 36, y: -53}
+        - {x: 36, y: 54}
+    - name: Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 54}
+        - {x: -35, y: 53}
+        - {x: -35, y: -25}
+        - {x: -25, y: -43}
+        - {x: -17, y: -54}
+        - {x: 35, y: -54}
+        - {x: 35, y: 54}
+    - name: Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 45.5}
+        - {x: 19.5, y: 37.5}
+        - {x: 19.5, y: 28.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 19.5, y: 38.5}
+        - {x: 5.5, y: 52.5}
+        - {x: -42.5, y: 52.5}
+        - {x: -42.5, y: -36.5}
+        - {x: -37.5, y: -52.5}
+        - {x: 12.5, y: -52.5}
+        - {x: 42.5, y: 22.5}
+        - {x: 42.5, y: 40.5}
+        - {x: 38.5, y: 47.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
