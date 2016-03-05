@@ -13,7 +13,14 @@ public class Destructor : MonoBehaviour {
 	
 	}
 
+    //Si es el personaje, se rompe la ejecución del programa. Si es una baldosa, la elimina. 
+    //Es aquí donde irá el GameOver.
 	void OnTriggerEnter2D(Collider2D other){
-		Destroy(other.gameObject);
+        if (other.tag == "Player") {
+            Debug.Break();
+        } else {
+            Destroy(other.gameObject);
+        }
+		
 	}
 }
