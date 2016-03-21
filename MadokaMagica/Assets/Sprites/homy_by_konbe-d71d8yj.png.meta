@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 7038e045a93478b49989a3a245369f3c
+timeCreated: 1458504461
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: homy_by_konbe-d71d8yj_0
+    21300002: homy_by_konbe-d71d8yj_1
+    21300004: homy_by_konbe-d71d8yj_2
+    21300006: homy_by_konbe-d71d8yj_3
+    21300008: homy_by_konbe-d71d8yj_4
+    21300010: homy_by_konbe-d71d8yj_5
+    21300012: homy_by_konbe-d71d8yj_6
+    21300014: homy_by_konbe-d71d8yj_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: homy_by_konbe-d71d8yj_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 11.5}
+        - {x: -15, y: 11.5}
+        - {x: -26, y: 6.5}
+        - {x: -26, y: -25.5}
+        - {x: -21, y: -29.5}
+        - {x: 12, y: -29.5}
+        - {x: 23, y: -24.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: -2.5}
+    - name: homy_by_konbe-d71d8yj_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 9.5}
+        - {x: -16, y: 9.5}
+        - {x: -26, y: -6.5}
+        - {x: -26, y: -25.5}
+        - {x: -14, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 26, y: -23.5}
+        - {x: 26, y: -3.5}
+        - {x: 25, y: -1.5}
+    - name: homy_by_konbe-d71d8yj_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -30}
+        - {x: 25.5, y: -30}
+        - {x: 25.5, y: 22}
+        - {x: 22.5, y: 30}
+        - {x: -25.5, y: 30}
+        - {x: -25.5, y: -24}
+    - name: homy_by_konbe-d71d8yj_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -17.5}
+        - {x: 25.5, y: 15.5}
+        - {x: 18.5, y: 26.5}
+        - {x: -19.5, y: 26.5}
+        - {x: -25.5, y: 9.5}
+        - {x: -25.5, y: -24.5}
+        - {x: -13.5, y: -29.5}
+        - {x: 7.5, y: -29.5}
+        - {x: 9.5, y: -27.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 22.5, y: -20.5}
+    - name: homy_by_konbe-d71d8yj_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -29.5}
+        - {x: 25, y: -29.5}
+        - {x: 26, y: -24.5}
+        - {x: 26, y: 26.5}
+    - name: homy_by_konbe-d71d8yj_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 26.5}
+        - {x: -11, y: 26.5}
+        - {x: -26, y: 18.5}
+        - {x: -26, y: -19.5}
+        - {x: -14, y: -29.5}
+        - {x: 12, y: -29.5}
+        - {x: 26, y: -18.5}
+        - {x: 26, y: 2.5}
+        - {x: 24, y: 16.5}
+    - name: homy_by_konbe-d71d8yj_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -26, y: 13}
+        - {x: -26, y: -29}
+        - {x: 25, y: -29}
+        - {x: 26, y: -24}
+        - {x: 26, y: 27}
+    - name: homy_by_konbe-d71d8yj_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -27, y: 13}
+        - {x: -27, y: -29}
+        - {x: 24, y: -29}
+        - {x: 26, y: -21}
+        - {x: 26, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

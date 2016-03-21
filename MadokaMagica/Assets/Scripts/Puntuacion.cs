@@ -4,7 +4,8 @@ using System.Collections;
 public class Puntuacion : MonoBehaviour {
 
     private int puntuacion = 0;
-	
+	public TextMesh marcador;
+
 	void Start () {
 	    NotificationCenter.DefaultCenter().AddObserver(this, "incrementarPuntos");
 	}
@@ -17,6 +18,8 @@ public class Puntuacion : MonoBehaviour {
     void incrementarPuntos(Notification n){
         int puntos = (int) n.data;
         puntuacion += puntos;
-        Debug.Log("Incrementado " + puntos +". Total: " + puntuacion);
+		marcador.text = puntuacion.ToString ();
     }
+
+
 }
