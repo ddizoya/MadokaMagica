@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Destructor : MonoBehaviour {
-
+	
 	// Use this for initialization
 	void Start () {
 	
@@ -17,7 +17,9 @@ public class Destructor : MonoBehaviour {
     //Es aquí donde irá el GameOver.
 	void OnTriggerEnter2D(Collider2D other){
         if (other.tag == "Player") {
-            Debug.Break();
+			NotificationCenter.DefaultCenter ().PostNotification (this, "muerte");
+			GameObject madoka = GameObject.Find ("Madoka");
+			Destroy (madoka);
         } else {
             Destroy(other.gameObject);
         }
