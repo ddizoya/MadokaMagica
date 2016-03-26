@@ -15,7 +15,22 @@ public class Play : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
+		Camera.main.GetComponent<AudioSource> ().Stop ();
+		this.GetComponent<AudioSource> ().Play ();
+		if (this.tag == "Jugar"){
+			Invoke ("cargarJuego", 1);
+		} else if (this.tag == "Inicio"){
+			Invoke ("cargarInicio", 1);
+		}
+
+	}
+
+	void cargarJuego(){
 		SceneManager.LoadScene ("GameScene");
+	}
+
+	void cargarInicio(){
+		SceneManager.LoadScene ("MainScene");
 	}
 
 

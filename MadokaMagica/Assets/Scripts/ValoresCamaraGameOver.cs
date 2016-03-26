@@ -15,6 +15,7 @@ public class ValoresCamaraGameOver : MonoBehaviour {
 	}
 
 	void OnEnable(){
+		Camera.main.GetComponent<AudioSource> ().Stop ();
 		marcadorPuntuacion = GameObject.Find ("Main Camera").GetComponent<Puntuacion> ().marcador;
 		puntuacionGameOver.text = marcadorPuntuacion.text;
 		Destroy (marcadorPuntuacion);
