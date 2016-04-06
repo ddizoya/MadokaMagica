@@ -12,7 +12,6 @@ public class Generador : MonoBehaviour {
 	void Start () {
         NotificationCenter.DefaultCenter().AddObserver(this, "corriendo"); 
 		NotificationCenter.DefaultCenter ().AddObserver (this, "muerte");
-
     }
 
 	void muerte(Notification n){

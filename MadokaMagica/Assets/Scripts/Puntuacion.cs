@@ -8,11 +8,19 @@ public class Puntuacion : MonoBehaviour {
 
 	void Start () {
 	    NotificationCenter.DefaultCenter().AddObserver(this, "incrementarPuntos");
+		NotificationCenter.DefaultCenter ().AddObserver (this, "muerte");
 	}
 	
 	// Update is called once per frame
 	void Update () {
 	
+	}
+
+	void muerte(Notification n){
+		if(puntuacion > GameState.state.puntuacionMaxima){
+		GameState.state.puntuacionMaxima = this.puntuacion;
+		GameState.state.Guardar ();
+		}
 	}
 
     void incrementarPuntos(Notification n){
